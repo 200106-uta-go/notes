@@ -1,4 +1,4 @@
-# Week 4 - Internetworking 
+# Week 5 - Networking 
 ## Topics
 * OSI/DoD Protocol Layering (Physical & Network Layers)
 * TCP/IP
